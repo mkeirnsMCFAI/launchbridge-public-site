@@ -1,24 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 330" role="img" aria-labelledby="title desc">
-  <title id="title">Dream2Business — Empowering Entrepreneurs</title>
-  <desc id="desc">A blue rocket with orange flame beside the D2B wordmark, Dream2Business, and the tagline Empowering Entrepreneurs.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 360" role="img" aria-labelledby="logoTitle logoDescription">
+  <title id="logoTitle">Dream2Business — Empowering Entrepreneurs</title>
+  <desc id="logoDescription">The Dream2Business logo: a blue rocket with orange flame, bold blue D2B lettering, the Dream2Business name, and the tagline Empowering Entrepreneurs.</desc>
   <g fill="#1556a5">
-    <!-- Rocket body and fins -->
-    <path d="M205 45c-56 8-101 34-130 79l-31 50-37 11-27 53 62-4-10 34 52 24 33-27 10-59c45-30 70-76 78-161z"/>
-    <path d="M73 174 38 181l-20 37 47-5 25-18z"/>
-    <path d="m109 268 6 42 36-26 13-38-27-4z"/>
-    <!-- White rocket detail -->
-    <path d="M194 65c-37 12-70 34-93 66" fill="none" stroke="#fff" stroke-width="7" stroke-linecap="round"/>
-    <circle cx="150" cy="107" r="11" fill="#fff"/><circle cx="123" cy="140" r="10" fill="#fff"/>
+    <!-- Rocket pointing upward and to the right -->
+    <path d="M226 24c-62 8-119 37-159 82-33 37-48 77-53 117l-9 68 66-16 30 46 48-38c43-34 75-83 91-137 13-43 15-83-14-122z"/>
+    <path d="m63 171-37 12-25 46 68-4 22-25z"/>
+    <path d="m91 283 7 62 49-36 24-44-35-12z"/>
+    <path d="M202 50c-47 15-85 45-111 82" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round"/>
+    <circle cx="164" cy="101" r="13" fill="#fff"/>
+    <circle cx="128" cy="143" r="12" fill="#fff"/>
   </g>
-  <!-- Flame -->
-  <path d="M53 264c-13 18-21 39-10 57 13-9 24-23 27-39 7 11 8 21 3 31 25-8 39-29 37-54-7 11-16 17-25 18 5-11 5-21 0-30-8 15-17 21-32 23z" fill="#f28b16"/>
+  <path d="M62 294c-20 22-29 44-17 63 17-11 30-28 35-48 9 12 9 24 3 36 31-10 48-35 42-65-9 14-20 22-32 23 7-14 6-26 0-37-10 18-21 25-39 28z" fill="#f28b16"/>
+
   <!-- D2B wordmark -->
-  <text x="260" y="210" font-family="Arial,Helvetica,sans-serif" font-size="210" font-weight="800" letter-spacing="-10" fill="#1556a5">D</text>
-  <text x="430" y="210" font-family="Arial,Helvetica,sans-serif" font-size="210" font-weight="800" letter-spacing="-10" fill="#1556a5">2</text>
-  <path d="M545 60h105c52 0 79 31 79 73 0 28-14 49-41 61 34 11 51 35 51 68 0 48-33 79-88 79H545V60zm55 48v68h47c20 0 31-13 31-34 0-22-12-34-34-34h-44zm0 112v72h53c23 0 36-13 36-36 0-24-13-36-38-36h-51z" fill="#1556a5" transform="translate(0,-50) scale(1,.82)"/>
-  <!-- Rising arrow crossing the 2 -->
-  <path d="m448 177 108-82-9 35 51-18-36 52-5-25-91 74z" fill="#1556a5"/>
-  <!-- Name and tagline -->
-  <text x="260" y="263" font-family="Arial,Helvetica,sans-serif" font-size="52" font-weight="700" fill="#1556a5">Dream2Business</text>
-  <text x="260" y="308" font-family="Arial,Helvetica,sans-serif" font-size="27" letter-spacing="5" fill="#1556a5">EMPOWERING ENTREPRENEURS</text>
+  <text x="292" y="218" font-family="Arial,Helvetica,sans-serif" font-size="220" font-weight="700" letter-spacing="-10" fill="#1556a5">D2B</text>
+  <!-- Rising arrow detail across the 2 -->
+  <path d="m545 178 112-94-12 39 61-22-44 66-5-29-94 78z" fill="#1556a5"/>
+
+  <!-- Brand name and tagline, as in the supplied logo -->
+  <text x="300" y="281" font-family="Arial,Helvetica,sans-serif" font-size="57" font-weight="700" fill="#1556a5">Dream2Business</text>
+  <text x="302" y="328" font-family="Arial,Helvetica,sans-serif" font-size="28" letter-spacing="5" fill="#1556a5">EMPOWERING ENTREPRENEURS</text>
 </svg>
