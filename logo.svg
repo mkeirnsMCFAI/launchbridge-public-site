@@ -1,17 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 220" role="img" aria-labelledby="title desc">
-  <title id="title">Dream2Business logo</title>
-  <desc id="desc">A glowing purple idea spark above an upward arrow, beside the navy letters D2B.</desc>
-  <defs>
-    <radialGradient id="glow"><stop offset="0" stop-color="#fff"/><stop offset=".24" stop-color="#fff"/><stop offset=".63" stop-color="#c99aff"/><stop offset="1" stop-color="#7136e8"/></radialGradient>
-  </defs>
-  <!-- Idea spark / lightbulb -->
-  <path d="M104 15 C113 76 129 88 177 98 C129 108 113 122 104 181 C95 122 79 108 31 98 C79 88 95 76 104 15Z" fill="url(#glow)"/>
-  <path d="M160 35 C164 52 169 57 184 60 C169 63 164 68 160 85 C156 68 151 63 136 60 C151 57 156 52 160 35Z" fill="url(#glow)"/>
-  <path d="M89 182h30M92 191h24M97 200h14" stroke="#102651" stroke-width="7" stroke-linecap="round"/>
-  <!-- Upward momentum arrow -->
-  <path d="M67 213 C112 202 156 175 190 139 L173 129 L230 111 L213 168 L203 151 C166 188 121 210 67 213Z" fill="#102651"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 330" role="img" aria-labelledby="title desc">
+  <title id="title">Dream2Business — Empowering Entrepreneurs</title>
+  <desc id="desc">A blue rocket with orange flame beside the D2B wordmark, Dream2Business, and the tagline Empowering Entrepreneurs.</desc>
+  <g fill="#1556a5">
+    <!-- Rocket body and fins -->
+    <path d="M205 45c-56 8-101 34-130 79l-31 50-37 11-27 53 62-4-10 34 52 24 33-27 10-59c45-30 70-76 78-161z"/>
+    <path d="M73 174 38 181l-20 37 47-5 25-18z"/>
+    <path d="m109 268 6 42 36-26 13-38-27-4z"/>
+    <!-- White rocket detail -->
+    <path d="M194 65c-37 12-70 34-93 66" fill="none" stroke="#fff" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="150" cy="107" r="11" fill="#fff"/><circle cx="123" cy="140" r="10" fill="#fff"/>
+  </g>
+  <!-- Flame -->
+  <path d="M53 264c-13 18-21 39-10 57 13-9 24-23 27-39 7 11 8 21 3 31 25-8 39-29 37-54-7 11-16 17-25 18 5-11 5-21 0-30-8 15-17 21-32 23z" fill="#f28b16"/>
   <!-- D2B wordmark -->
-  <text x="270" y="169" font-family="Arial,Helvetica,sans-serif" font-size="148" font-weight="700" letter-spacing="-8" fill="#102651">D2</text>
-  <path d="M502 61h62c25 0 39 15 39 35 0 17-11 29-29 33 23 3 35 17 35 37 0 23-16 39-44 39h-63V61Z" fill="none" stroke="#102651" stroke-width="7" stroke-linejoin="round"/>
-  <path d="M502 112h17M502 151h17M502 199h94" fill="none" stroke="#102651" stroke-width="7" stroke-linecap="round"/>
+  <text x="260" y="210" font-family="Arial,Helvetica,sans-serif" font-size="210" font-weight="800" letter-spacing="-10" fill="#1556a5">D</text>
+  <text x="430" y="210" font-family="Arial,Helvetica,sans-serif" font-size="210" font-weight="800" letter-spacing="-10" fill="#1556a5">2</text>
+  <path d="M545 60h105c52 0 79 31 79 73 0 28-14 49-41 61 34 11 51 35 51 68 0 48-33 79-88 79H545V60zm55 48v68h47c20 0 31-13 31-34 0-22-12-34-34-34h-44zm0 112v72h53c23 0 36-13 36-36 0-24-13-36-38-36h-51z" fill="#1556a5" transform="translate(0,-50) scale(1,.82)"/>
+  <!-- Rising arrow crossing the 2 -->
+  <path d="m448 177 108-82-9 35 51-18-36 52-5-25-91 74z" fill="#1556a5"/>
+  <!-- Name and tagline -->
+  <text x="260" y="263" font-family="Arial,Helvetica,sans-serif" font-size="52" font-weight="700" fill="#1556a5">Dream2Business</text>
+  <text x="260" y="308" font-family="Arial,Helvetica,sans-serif" font-size="27" letter-spacing="5" fill="#1556a5">EMPOWERING ENTREPRENEURS</text>
 </svg>
